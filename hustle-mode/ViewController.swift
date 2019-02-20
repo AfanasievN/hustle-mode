@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var rocket: UIImageView!
     @IBOutlet weak var hustleLbl: UILabel!
     @IBOutlet weak var onLbl: UILabel!
-    @IBOutlet weak var Off: UIButton!
     
     var player: AVAudioPlayer!
     
@@ -46,7 +45,6 @@ class ViewController: UIViewController {
         }) { (finished) in
             self.hustleLbl.isHidden = false
             self.onLbl.isHidden = false
-            self.Off.isHidden = false
         }
     }
     
