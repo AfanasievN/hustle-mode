@@ -13,6 +13,8 @@
 		88320D36221D899F000D5622 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88320D35221D899F000D5622 /* Assets.xcassets */; };
 		88320D39221D899F000D5622 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88320D37221D899F000D5622 /* LaunchScreen.storyboard */; };
 		88320D65221D963D000D5622 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 88320D64221D963D000D5622 /* hustle-on.wav */; };
+		88320D68221DADE6000D5622 /* IMG_2487.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 88320D66221DADE5000D5622 /* IMG_2487.PNG */; };
+		88320D69221DADE6000D5622 /* IMG_2488.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 88320D67221DADE6000D5622 /* IMG_2488.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		88320D38221D899F000D5622 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88320D3A221D899F000D5622 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88320D64221D963D000D5622 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
+		88320D66221DADE5000D5622 /* IMG_2487.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2487.PNG; sourceTree = "<group>"; };
+		88320D67221DADE6000D5622 /* IMG_2488.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_2488.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		88320D2D221D899E000D5622 /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				88320D66221DADE5000D5622 /* IMG_2487.PNG */,
+				88320D67221DADE6000D5622 /* IMG_2488.PNG */,
 				88320D64221D963D000D5622 /* hustle-on.wav */,
 				88320D2E221D899E000D5622 /* AppDelegate.swift */,
 				88320D30221D899E000D5622 /* ViewController.swift */,
@@ -127,6 +133,8 @@
 			files = (
 				88320D65221D963D000D5622 /* hustle-on.wav in Resources */,
 				88320D39221D899F000D5622 /* LaunchScreen.storyboard in Resources */,
+				88320D68221DADE6000D5622 /* IMG_2487.PNG in Resources */,
+				88320D69221DADE6000D5622 /* IMG_2488.PNG in Resources */,
 				88320D36221D899F000D5622 /* Assets.xcassets in Resources */,
 				88320D34221D899E000D5622 /* Main.storyboard in Resources */,
 			);
